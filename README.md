@@ -34,4 +34,4 @@ $ npm i
 $ npm run dev
 ```
 
-Ai é só abrir o http://localhost:3000
+Ai é só abrir o http://localhost:5173
